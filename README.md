@@ -1,5 +1,5 @@
 <h1 align = "center">
-  Final project Code
+  CS-338 Final Project
 </h1>
 <p>
   This is my final project for CS 338. It is an NBA records database with information gathered within the last 10 years, as of Summer 2020. It was coded using SQL, and the DBMS 
