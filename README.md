@@ -18,7 +18,7 @@
       information about the General Managers for various teams that have held jobs on teams in the last 10 years
     </li>
     <li>
-      information about NBA finals results over the last 10 years
+      information about NBA Finals results over the last 10 years
     </li>
     <li>
       information about NBA Finals MVPs over the last 10 years
