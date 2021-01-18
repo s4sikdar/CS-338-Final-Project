@@ -12,7 +12,7 @@
       profiles of each team in the NBA
     </li>
     <li>
-      information about head coaches for various teams, who have held jobs in the NBA over the last 10 years
+      information about head coaches for various teams that have held jobs in the NBA over the last 10 years
     </li>
     <li>
       information about the General Managers for various teams that have held jobs on teams in the last 10 years
